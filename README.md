@@ -1,6 +1,6 @@
 # Babylonjs-Fractals-The-Pythagorean-Tree
 
-[Babylonjs Fractal | Babylon.js Playground](https://playground.babylonjs.com/#6SPNMU#1)
+[Babylonjs Fractal | Babylon.js Playground](https://playground.babylonjs.com/#6SPNMU#3)
 
 [Babylonjs Fractal Version 2 | Babylon.js Playground](https://playground.babylonjs.com/#CVFVXF#0)
 
