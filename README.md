@@ -11,3 +11,5 @@
 [Babylonjs Fractal (Version 5 - Pythagoras’ Dancing Forest of Fractals Trees) | Babylon.js Playground](https://playground.babylonjs.com/#O1HHS1)
 
 [Babylonjs Fractal (Version 6 - GUI With tubes version) | Babylon.js Playground](https://playground.babylonjs.com/#BKQ5O6)
+
+[Babylonjs Fractal (Version 7 - GUI With tubes version + Download OBJ fractal + GIZMO) | Babylon.js Playground](https://playground.babylonjs.com/#BTVL3U)
