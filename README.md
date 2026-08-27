@@ -7,3 +7,5 @@
 [Babylonjs Fractal (Version 3 - With GUI) | Babylon.js Playground](https://playground.babylonjs.com/#0E8Z3T#0)
 
 [Babylonjs Fractal (Version 4 - Random fractal generator) | Babylon.js Playground](https://playground.babylonjs.com/#J102KE)
+
+[Babylonjs Fractal (Version 5 - Pythagoras’ Dancing Forest of Fractals Trees) | Babylon.js Playground](https://playground.babylonjs.com/#O1HHS1)
